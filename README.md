@@ -4,8 +4,6 @@
 If you're reading this, you probably already know what it's about. If you don't, you probably shouldn't be reading it, so go away.
 
 I'll go over the details of how all this works in person, but a few general guidelines once you've gotten started:
-- Everyone should generally know the broad strokes of what you're going to do before you do it.
-  - No surprise new features unless you've been assigned to work on them already or they don't require any changes to existing code.
 - Commit messages should describe what the changes do at a **high level** and **why**, but not the implementation details.
   - If your commit does too much to easily describe it as a single high-level change, it should be more than one commit.
 - If you make a change to the public API of your code (i.e. the part of your code that other people use), **say so in the commit message**.
